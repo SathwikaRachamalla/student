@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Profile Page</title>
+  <style>
+    h1 {
+      color: red;
+    }
+    h2 {
+      color: blue;
+    }
+    h3 {
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <h1 align="center">Sathwika</h1>
+  <h2 align="center">2451-22-749-044</h2>
+  <h3 align="center">CSE-Cyber Security</h3>
+</body>
+</html>
+
